@@ -3,9 +3,16 @@
     padding: 0;
     box-sizing: border-box;
     /* font-family: "Bebas Neue", sans-serif; */
-    font-family: "Press Start 2P", cursive;
+    font-family: "Consolas", cursive;
   }
+body{
+    background-color: rgb(40, 44,52)
+}
 h1{
     display: flex;
     justify-content: center;
+    color: rgb(224, 108, 117)
 }  
+img{
+    width: 100%;
+}
